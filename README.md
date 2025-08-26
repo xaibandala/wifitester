@@ -75,3 +75,5 @@ Notes:
 ## Notes
 - Network Information API is not supported in all browsers; the app degrades gracefully.
 - For accurate download measurements, provide a `speedTestUrl` served with CORS enabled and cache disabled.
+
+![wifitester](https://github.com/user-attachments/assets/aed39e1a-b144-4f0b-98b7-a06c6990a923)
